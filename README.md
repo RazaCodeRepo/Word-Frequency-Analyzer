@@ -4,3 +4,5 @@ engines during predicting user input.
 
 The entire source code of the project is contained in the file WordsInFile.java. The input to the program consists of 4
 different text files. All these files are attached in the repo.
+
+The software can be seen in action here: https://youtu.be/ouCPYob0PdQ
